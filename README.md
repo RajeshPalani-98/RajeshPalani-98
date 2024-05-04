@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajeshPalani-98
-- 👀 I’m interested in ... Data Analyst
+- 👀 I’m interested in ... GIS Analyst
 - 🌱 I’m currently learning ... R Language, Machine learning,...
 - 📫 How to reach me ... Mail at rj28061998@gmail.com
 
